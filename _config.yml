@@ -6,16 +6,16 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "/12Caesars/"
       type: "authors"
     values:
       layout: "author"
   - scope:
-      path: ""
+      path: "/12Caesars/"
       type: "posts"
     values:
       layout: "post"
   - scope:
-      path: ""
+      path: "/12Caesars"
     values:
       layout: "default"
