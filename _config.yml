@@ -1,4 +1,4 @@
-baseurl: /12Caesars/      # place folder name if the site is served in a subfolder
+baseurl: /12Caesars      # place folder name if the site is served in a subfolder
 
 collections:
   authors:
@@ -9,7 +9,7 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "authors"
   - scope:
       path: ""
       type: "posts"
