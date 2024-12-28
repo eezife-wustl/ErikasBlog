@@ -1,3 +1,5 @@
+baseurl: /12CAESARS/      # place folder name if the site is served in a subfolder
+
 collections:
   authors:
     output: true
