@@ -1,8 +1,8 @@
 - name: Home
-  link: /12Caesars/
+  link: /
 - name: About
-  link: /12Caesars/about.html
+  link: about.html
 - name: Blog
-  link: /12Caesars/blog.html
+  link: blog.html
 - name: Staff
-  link: /12Caesars/staff.html
+  link: staff.html
