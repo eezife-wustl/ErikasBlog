@@ -1,5 +1,5 @@
-baseurl: /12Caesars      # place folder name if the site is served in a subfolder
-url: https://eezife-wustl.github.io
+baseurl: "/12Caesars"   # place folder name if the site is served in a subfolder
+url: "https://eezife-wustl.github.io"
 
 collections:
   authors:
