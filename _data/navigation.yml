@@ -1,8 +1,8 @@
-- name: Home
-  link: /
 - name: About
   link: about.html
 - name: Blog
-  link: blog.html
+  link: about.html
+- name: 12 Caesars Poetry Project
+  link: /
 - name: Staff
   link: staff.html
