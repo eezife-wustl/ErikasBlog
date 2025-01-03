@@ -1,8 +1,15 @@
 <link rel="stylesheet" href="/12Caesars/assets/css/styles.css">
 <nav class="current">
   <div class="nav-container">
-    {% for item in site.data.navigation %}
+    <div class="left">
+      <a href="/12Caesars/" class="links">12 Caesars Poetry Project</a>
+    </div>
+    <div class="right">
+      {% for item in site.data.navigation %}
+        {% unless item.name == "12 Caesars Poetry Project" %}
       <a href="{{ item.link }}" class="links" {% if page.url == item.link %} {% endif %}>{{ item.name }}</a>
-    {% endfor %}
+        {% endunless %}
+      {% endfor %}
+    </div>
   </div>
 </nav>
