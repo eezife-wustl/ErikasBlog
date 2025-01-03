@@ -5,8 +5,9 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/12Caesars/assets/css/styles.css">
   </head>
+  {% include navigation.html %}
   <body>
-    {% include navigation.html %}
     {{ content }}
   </body>
+  {% include footer.html %}
 </html>
