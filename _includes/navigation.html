@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="/12Caesars/assets/css/styles.css">
 <nav class="current">
-  {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" class="links" {% if page.url == item.link %} {% endif %}>{{ item.name }}</a>
-  {% endfor %}
+  <div class="nav-container">
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" class="links" {% if page.url == item.link %} {% endif %}>{{ item.name }}</a>
+    {% endfor %}
+  </div>
 </nav>
