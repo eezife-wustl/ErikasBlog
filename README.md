@@ -1,2 +1,2 @@
-# 12Caesars
-12 Caesars of Rome Website
+# Erika's Blog
+Relaunching my blog era with the power of Jekyll
