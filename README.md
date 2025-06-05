@@ -1,6 +1,6 @@
 # Erika's Blog
 
-Relaunching my blog era with the power of **Jekyll**.
+Relaunching my blog era with **Jekyll**.
 
 ---
 
