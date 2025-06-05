@@ -20,7 +20,7 @@ Relaunching my blog era with the power of **Jekyll**.
 
 ---
 
-## Blog Post Preview Snippet
+## Maybe Helpful Snippet
 
 ```liquid
 <ul>
