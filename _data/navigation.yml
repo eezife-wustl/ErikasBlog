@@ -1,10 +1,6 @@
-- name: 12 Caesars Poetry Project
-  link: /12Caesars/
+- name: Erika's Blog
+  link: /ErikasBlog/
 - name: About
-  link: /12Caesars/about.html
-- name: Gallery
-  link: /12Caesars/blog.html
-- name: Staff
-  link: /12Caesars/staff.html
+  link: /ErikasBlog/about.html
 - name: Contact
-  link: /12Caesars/contact.html
+  link: /ErikasBlog/contact.html

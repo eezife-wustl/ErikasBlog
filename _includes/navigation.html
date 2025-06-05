@@ -2,11 +2,11 @@
 <nav class="current">
   <div class="nav-container">
     <div class="left">
-      <a href="/12Caesars/" class="links">12 Caesars Poetry Project</a>
+      <a href="/ErikasBlog/" class="links">Erika's Blog</a>
     </div>
     <div class="right">
       {% for item in site.data.navigation %}
-        {% unless item.name == "12 Caesars Poetry Project" %}
+        {% unless item.name == "Erika's Blog" %}
       <a href="{{ item.link }}" class="links" {% if page.url == item.link %} {% endif %}>{{ item.name }}</a>
         {% endunless %}
       {% endfor %}
